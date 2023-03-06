@@ -2,7 +2,18 @@
 
 
 ## Skills Demonstrated
-
+    Pandas
+    Numpy
+    Plotly Express
+    Profile Report
+    OneHot Encoding
+    Grid Search CV
+    Classification Models
+    Boosting
+    SMOTE
+    Pipeline
+    AUC
+    ROC AUC
 
 ## Purpose
 The telecom operator Interconnect would like to forecast churn of their clients. To ensure loyalty, those who are predicted to leave will be offered promotional codes and special plans. 
