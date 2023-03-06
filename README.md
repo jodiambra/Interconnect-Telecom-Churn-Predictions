@@ -1,4 +1,5 @@
 # Interconnect-Telecom-Churn-Predictions
+![image1-02](https://user-images.githubusercontent.com/115895428/223223445-90c0975d-1c1b-4181-b910-1dddd2255467.jpg)
 
 
 ## Skills Demonstrated
