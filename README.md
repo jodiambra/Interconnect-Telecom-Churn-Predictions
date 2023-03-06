@@ -1,5 +1,7 @@
 # Interconnect-Telecom-Churn-Predictions
 
+![1_OV8OjU1ll5QDxD0Yet23Nw](https://user-images.githubusercontent.com/115895428/223225269-74f410fa-3eab-4f6c-ab4f-dc95bbfa8b6a.png)
+
 
 ## Skills Demonstrated
     Pandas
