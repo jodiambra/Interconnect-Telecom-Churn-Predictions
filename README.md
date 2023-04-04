@@ -25,7 +25,7 @@ We succeeded in achieving our target AUC ROC score of 0.75. Our final score with
 
 Therefore, Interconnect can utilize this model to predict churn. Alongside marketing strategies, the company can target customers likely to leave, and therefore implement strategies to prevent churn. They may also be interested in looking at trends in the charges of customers alongside the length of service, to periodically implement marketing strategies to prevent churn. 
 
-# [Web Notebook](https://jodiambra.github.io/Interconnect-Telecom-Churn-Predictions/)
+### [Web Notebook](https://jodiambra.github.io/Interconnect-Telecom-Churn-Predictions/)
 
 
 
